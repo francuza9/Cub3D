@@ -1,0 +1,13 @@
+EA ./assets/sprites/nature_1.xpm 
+NO ./assets/sprites/waterfall_1.xpm 
+WE ./assets/sprites/space_1.xpm     
+SO ./assets/sprites/waterfall_1.xpm
+
+F 0,255, 127
+C 100,149,237
+
+11111
+10001
+10N01
+10001
+11111
